@@ -152,9 +152,6 @@ header {
 
 
 
-/* ==================== BUTTON ==================== */
-
-
 .btn {
     display: inline-block;
 
@@ -257,8 +254,6 @@ header {
 
 
 
-
-
 .skills-container {
     display: grid;
 
@@ -310,8 +305,6 @@ header {
 
 
 
-
-
 .education-card {
     max-width: 800px;
 
@@ -358,10 +351,6 @@ header {
     margin-bottom: 15px;
 }
 
-
-
-
-/* ==================== PROJECTS ==================== */
 
 
 .projects-container {
@@ -456,10 +445,6 @@ header {
     background-color: violet;
 }
 
-
-
-
-/* ==================== CONTACT ==================== */
 
 
 .contact-section {
